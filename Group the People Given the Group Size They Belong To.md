@@ -1,0 +1,6 @@
+---
+url: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to
+---
+
+Difficulty: #medium
+Companies: #roblox

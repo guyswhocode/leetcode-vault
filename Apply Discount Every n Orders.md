@@ -1,0 +1,6 @@
+---
+url: https://leetcode.com/problems/apply-discount-every-n-orders
+---
+
+Difficulty: #medium
+Companies: #facebook

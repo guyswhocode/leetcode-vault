@@ -1,0 +1,6 @@
+---
+url: https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n
+---
+
+Difficulty: #medium
+Companies: #google

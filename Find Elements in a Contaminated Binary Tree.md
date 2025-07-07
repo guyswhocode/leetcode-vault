@@ -1,0 +1,6 @@
+---
+url: https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree
+---
+
+Difficulty: #medium
+Companies: #google
